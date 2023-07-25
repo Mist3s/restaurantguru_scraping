@@ -1,2 +1,2 @@
-# restaurantguru_scraping
+# restaurantguru.com scraping
 restaurantguru_scraping
